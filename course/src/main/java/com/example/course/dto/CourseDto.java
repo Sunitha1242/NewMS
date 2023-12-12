@@ -14,6 +14,6 @@ public class CourseDto {
 	private String courseName;
 	private Long courseDuration;
 	private String courseAuthor;
-	private String courseDescription;
+
 
 }
