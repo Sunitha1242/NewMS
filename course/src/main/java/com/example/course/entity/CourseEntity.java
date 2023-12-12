@@ -22,5 +22,6 @@ public class CourseEntity {
 	private String courseName;
 	private Long courseDuration;
 	private String courseAuthor;
+	private String courseDescription;
 
 }
